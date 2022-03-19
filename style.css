@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Oswald:wght@300&display=swap');
+
+
+body {
+  background-color: rgb(28, 27, 34);
+}
+
+main {
+  background-color: rgb(43, 42, 51);
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+header {
+  color: white;
+  font-family: Oswald;
+  font-size: 46px;
+  text-align: center;
+  margin: 10px;
+}
+
+button {
+  background-color: rgb(66, 65, 77);
+  font-family: Open Sans Condensed;
+  font-size: 18;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: white;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
